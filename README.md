@@ -25,3 +25,5 @@ Example Output:
 917245638
 345681279
 ```
+
+type in any character and enter to close program after output
