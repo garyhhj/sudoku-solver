@@ -26,4 +26,5 @@ Example Output:
 345681279
 ```
 
+Quiting Program: 
 type in any character and enter to close program after output
