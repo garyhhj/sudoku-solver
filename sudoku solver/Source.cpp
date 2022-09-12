@@ -1,10 +1,6 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include <map>
-#include <set>
-#include <algorithm>
-#include <cmath>
 
 
 using namespace std;
@@ -136,6 +132,7 @@ int main() {
 			else grid[i][j] = int(s[j]) - int('0');
 		}
 	}
+
 
 	vector<int> choice(N, 0);
 	count(0, 0, grid, choice, 0);
