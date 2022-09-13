@@ -1,4 +1,5 @@
-Input: soduku with the white space represented by dots 
+## Input:
+soduku with the white space represented by dots 
 
 Example Input:
 ```
@@ -26,6 +27,6 @@ Example Output:
 345681279
 ```
 
-Quiting Program: 
+## Quiting Program: 
 
 type in any character and enter to close program after output
